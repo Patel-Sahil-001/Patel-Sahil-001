@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patel Sahil</h1>
-<h3 align="center">a 3rd-year B.Tech student at Parul University, passionate about web development and creating responsive, user-friendly websites. I work with HTML, CSS, JavaScript, and frameworks like Flask to build full-stack web apps that solve real-world problems.</h3>
+<h3 align="center">👋 Hi, I'm Sahil — a 3rd-year B.Tech student at Parul University. I'm passionate about web development, design, photography, and video editing. I enjoy building responsive websites, crafting clean user interfaces, and creating engaging digital content.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patel-sahil-001&label=Profile%20views&color=0e75b6&style=flat" alt="patel-sahil-001" /> </p>
 
