@@ -1,15 +1,105 @@
+<h1 align="center">Hi 👋, I'm Sahil Patel</h1>
+<h3 align="center">Aspiring Software Developer | Java & Python Enthusiast | UI/UX Explorer</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.sahilll._47) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patel-sahil9124) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:99sahil9426@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Patel-Sahil-001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Patel-Sahil-001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patel-Sahil-001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/patel-sahil9124" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:99sahil9426@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Patel-Sahil-001">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Patel-Sahil-001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 **B.Tech in Computer Science & Engineering** at *Parul University*
+- 💻 Passionate about **Full-Stack Development**, **DSA**, and **UI/UX Design**
+- 🧠 Currently strengthening **Data Structures & Algorithms** and **Competitive Programming**
+- 🌱 Love building **real-world, scalable applications**
+- 🤝 Open to internships, collaborations, and open-source contributions
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🌐 Web Technologies
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### ⚙️ Tools & Practices
+- Git & GitHub  
+- Agile Methodologies  
+- Debugging & Testing  
+- UI/UX Design (Figma)  
+- Windows & Linux  
+
+---
+
+## 📌 Featured Projects
+
+### 🏢 **StockFlow ERP**
+**Inventory & Sales Management System**
+
+- 📦 Real-time inventory tracking with automated restock alerts
+- 🔐 Role-based authentication using JWT, Passport.js & Google OAuth
+- 📊 Analytics dashboard with sales reports and audit logs
+- 🧾 PDF bill generation & notification system
+
+**Tech Stack:**  
+React, Redux, Tailwind, Vite | Node.js, Express.js, MongoDB | Vercel
+
+🔗 *Live Demo & Repo available*
+
+---
+
+### 🌐 **Portfolio Website**
+- Fully responsive personal portfolio
+- Glassmorphism UI with smooth animations (Framer Motion)
+- Sections for Skills, Projects, Certificates & Contact
+- Integrated GitHub repositories & live project links
+
+**Tech Stack:**  
+React, TypeScript, Tailwind CSS, Vite
+
+---
+
+## 📜 Certifications
+
+- 🧠 Prompt Engineering – Parul University  
+- 🎨 UI/UX Design – Parul University  
+- 🤖 AI for Business – HP  
+
+---
+
+## 🌟 Leadership & Activities
+
+- Active self-learner and tech enthusiast
+- Contributor to open-source and developer communities
+- Mentor for junior students in programming & web development
+
+---
+
+## 📫 Let's Connect
+
+- 📍 Surat, Gujarat, India  
+- 📧 Email: **99sahil9426@gmail.com**  
+- 💼 LinkedIn: [patel-sahil9124](https://linkedin.com/in/patel-sahil9124)
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
