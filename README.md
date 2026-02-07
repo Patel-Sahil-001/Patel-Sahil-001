@@ -64,12 +64,6 @@
 - Role-based authentication using **JWT, Passport.js & Google OAuth**  
 - PDF invoice generation, analytics dashboard, and email notifications  
 
-### 🔹 **Portfolio Website**
-🔗 Live: https://patel-sahil.vercel.app  
-- Personal portfolio built with **React, TypeScript, Tailwind CSS**
-- Smooth **Framer Motion animations** and modern UI/UX
-- Fully responsive and SEO optimized
-
 ---
 
 ## 📊 GitHub Stats
